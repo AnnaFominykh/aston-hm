@@ -8,12 +8,6 @@ public class Homework {
     private static String string1;
     private static int[] int1;
 
-
-
-    public static void per (){
-
-    }
-
     // Перевернуть строку и вывести на консоль
     //  String string = "I love Java";
     public static void turnString(String string) {
